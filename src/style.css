@@ -9,21 +9,22 @@ body {
   width: 350px;
   box-sizing: border-box;
   border: 1px solid #e75451;
-  margin-top: 20px;
-  margin-right: 20px;
-  margin-bottom: 40px;
-  margin-left: 20px;
+  margin: 20px 20px 40px;
 }
 
 .yellowBox {
   background-color: #ffa700;
   margin: 10px;
-  border: 1px solid #e75451;
 }
 
 .text {
   margin: 10px;
   padding: 10px;
-  border: 1px solid #e75451;
   background-color: #dedede;
+}
+
+.blueBox,
+.yellowBox,
+.text {
+  border: 1px solid #e75451;
 }
