@@ -22,8 +22,6 @@ body {
   background-color: #dedede;
 }
 
-.blueBox,
-.yellowBox,
-.text {
+.box {
   border: 1px solid #e75451;
 }
